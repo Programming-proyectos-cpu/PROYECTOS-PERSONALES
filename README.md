@@ -13,7 +13,7 @@
 
 Este es mi laboratorio personal. Acá subo todo lo que voy aprendiendo de programación:
 desde scripts chiquitos en Python hasta páginas web y programas en C/C++.
-Todo hecho a pulmón desde Perugorría, Corrientes.
+Todo hecho a pulmón desde Argentina.
 
 ### 📂 Estructura
 
