@@ -1,0 +1,9 @@
+function prompt {
+    Write-Host "┌──(" -NoNewline -ForegroundColor Blue
+    Write-Host "$env:USERNAME㉿kali" -NoNewline -ForegroundColor Red
+    Write-Host ")-[" -NoNewline -ForegroundColor Blue
+    Write-Host "$((Get-Location).Path.Replace($HOME,'~'))" -NoNewline -ForegroundColor White
+    Write-Host "]" -ForegroundColor Blue
+    Write-Host "└─$ " -NoNewline -ForegroundColor Blue
+    return " "
+}
